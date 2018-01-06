@@ -1,0 +1,14 @@
+/object
+/node_modules
+/build
+/bundle
+/android
+/ios
+/.idea
+
+# No need to put the docs in npm
+/src/docs
+/dist/docs
+
+**/*.options.js
+**/*.env
